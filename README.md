@@ -1,2 +1,3 @@
 # Calculadora-IMC
- Uma simples calculadora de Índice de massa corporal utilizando JS
+ Uma simples calculadora de Índice de massa corporal utilizando **Html**, **Css** e **Javascript**
+
